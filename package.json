@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Jean Sarlôn"
+  },
+  "description": "eslint rules for react projects",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@jeansarlon/eslint-config-react",
+  "peerDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-jsx-a11y": "^6.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeansarlon/eslint-config-react"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
